@@ -15,7 +15,7 @@ tbh, what I noticed is that backlighting on traditional displays is static. most
 
 ~~~~~ Waves | radii
 
-Pre rendered as waves
+Pre rendered as waves (light, rays, object are all same class (photons) until they are in cammra
 ~~~~~ ~~~~~ ~~~~~ ~~~~~ ~~~~~ ~~~~~ 
 ~~~~~ ~~~~~ ~~~~~ ~~~~~ ~~~~~ ~~~~~ 
 ~~~~~ ~~~~~ ~~~~~ ~~~~~ ~~~~~ ~~~~~ 
@@ -23,7 +23,7 @@ Pre rendered as waves
 ~~~~~ ~~~~~ ~~~~~ ~~~~~ ~~~~~ ~~~~~ 
 ~~~~~ ~~~~~ ~~~~~ ~~~~~ ~~~~~ ~~~~~ 
 
-"in camera" field / observed
+"in camera" field / observed: wave for collapsing/rendered 
 ~~~~~~~~||||||||||||||~~~~~~~~~~~~
 ~~~~~~~~||||||||||||||~~~~~~~~~~~~
 ~~~~~~~~||||||||||||||~~~~~~~~~~~~
