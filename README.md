@@ -30,3 +30,6 @@ Pre rendered as waves (light, rays, object are all same class (photons) until th
 ~~~~~~~~||||||||||||||~~~~~~~~~~~~
 ~~~~~~~~||||||||||||||~~~~~~~~~~~~
 ~~~~~~~~||||||||||||||~~~~~~~~~~~~
+
+
+way easier to blur and stitch low res videos than simulate this. (ninevid)
